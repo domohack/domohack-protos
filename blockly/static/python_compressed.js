@@ -1,0 +1,1 @@
+../blockly/python_compressed.js
